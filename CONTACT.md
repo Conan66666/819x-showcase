@@ -10,8 +10,8 @@
 
 ## 商务洽谈
 
-- [Telegram：@conan666_bot](https://t.me/conan666_bot) （消息将转交柯南社长）
-- Email：6@7-11.vip （消息将转交柯南社长）
+- ✈️[Telegram：@conan666_bot](https://t.me/conan666_bot) （消息将转交柯南社长）
+- 📧Email：kn@7-11.vip （消息将转交柯南社长）
 - 官网：https://819.im
 
 ---
