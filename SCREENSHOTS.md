@@ -4,7 +4,7 @@
 
 ![819X 交易所搭建ST5首页](./docs/images/819x-exchange-st5_m_homepage.png)
 
--合约交
+-合约交易
 
 ![819X 交易所搭建ST合约交易页](./docs/images/819x-exchange-st5_m_cfd.png)
 
