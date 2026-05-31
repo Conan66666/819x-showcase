@@ -46,7 +46,7 @@
 
 -个人中心菜单
 
-![819X 交易所搭建秒合约移动端个人中心菜单页](./docs/images/819x-exchange-m_assets_ja.png)
+![819X 交易所搭建秒合约移动端个人中心菜单页](./docs/images/819x-exchange-m_assets2_ja.png)
 
 
 ### 运营后台截图
