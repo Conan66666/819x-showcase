@@ -8,10 +8,12 @@
 
 ---
 
-## 商务洽谈
+## 商务洽谈（消息将转交柯南社长）
 
-- ✈️[Telegram：@conan666_bot](https://t.me/conan666_bot) （消息将转交柯南社长）
-- 📧Email：kn@7-11.vip （消息将转交柯南社长）
+- [![Telegram](https://img.shields.io/badge/Telegram-@conan666_bot-blue?logo=telegram)](https://t.me/conan666_bot)
+
+- [![Email](https://img.shields.io/static/v1?label=Email&message=kn%407-11.vip&color=D14836&logo=gmail&logoColor=white)](mailto:kn@7-11.vip)
+
 - 官网：https://819.im
 
 ---
