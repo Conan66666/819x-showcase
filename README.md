@@ -6,7 +6,7 @@
 
 **十年沉淀技术底座，满足多种交易逻辑。三天起站，高效稳定。**
 
-[产品矩阵](PRODUCTS.md) · [能力栈](CAPABILITIES.md) · [联系合作](CONTACT.md)
+[产品矩阵](PRODUCTS.md) · [能力栈](CAPABILITIES.md) · [截图演示](SCREENSHOTS.md) [联系合作](CONTACT.md)
 
 </div>
 
