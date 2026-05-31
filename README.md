@@ -11,12 +11,35 @@
 </div>
 
 ---
+## 这是什么？
 
-## 我们是什么？
+**819X** 是捌壹玖數智集團（原名柯南數智集團）旗下面向品牌方的**白标交易所框架化产品**。
+我们是一个面向外汇合约交易所搭建、虚拟货币交易平台开发和 ST5 交易所系统的框架化项目，适合用于交易所官网展示、系统演示、产品介绍和二次开发参考。
+我们不卖单次代码 —— 我们提供的是**经过实战验证的系统底座 + 快速界面设计重构工程 + 长期可演进的技术路线**。从拿到品牌名到上线对外，**最快 1 天**。
 
-**819X** 系捌壹玖數智集團 「原名柯南數智集團」旗下面向品牌方的**白标交易所框架化产品**。
+---
 
-我们不卖单次代码 — 我们提供**经过实战验证的底座 + 快速界面设计重构工程 + 长期可演进的技术路线**。从拿到 品牌名 到上线对外，**最快 1 天**。
+## 這是什麼？
+
+**819X** 是捌壹玖數智集團（原名柯南數智集團）旗下面向品牌方的**白標交易所框架化產品**。
+我們是一個面向外匯合約交易所搭建、虛擬貨幣交易平台開發和 ST5 交易所系統的框架化項目，適合用於交易所官網展示、系統演示、產品介紹和二次開發參考。
+我們不販售單次代碼 —— 我們提供的是**經過實戰驗證的系統底座 + 快速介面設計重構工程 + 長期可演進的技術路線**。從取得品牌名稱到正式上線對外，**最快 1 天**。
+
+---
+
+## What is this?
+
+**819X** is a **white-label exchange framework product** under 819 Digital Intelligence Group, formerly known as Conan Digital Group, designed for brands that need a fast and flexible exchange platform solution.
+We are a framework-based project focused on forex contract exchange deployment, cryptocurrency trading platform development, and ST5 exchange system solutions. It is suitable for exchange website showcases, system demos, product presentations, and secondary development reference.
+We do not sell one-time source code only — we provide a **battle-tested system foundation + rapid UI redesign and reconstruction workflow + long-term evolvable technical roadmap**. From receiving the brand name to going live publicly, the fastest delivery can be completed in **1 day**.
+
+---
+
+## これは何ですか？
+
+**819X** は、捌壹玖數智集團（旧称：柯南數智集團）がブランド事業者向けに提供する**ホワイトラベル型取引所フレームワーク製品**です。
+本プロジェクトは、FX・CFD系の契約取引所構築、暗号資産取引プラットフォーム開発、ST5取引所システム向けのフレームワーク型プロジェクトです。取引所公式サイトの展示、システムデモ、製品紹介、二次開発の参考として利用できます。
+私たちは単発のソースコード販売ではなく、**実運用で検証されたシステム基盤 + 迅速なUIデザイン再構築工程 + 長期的に進化可能な技術ロードマップ**を提供します。ブランド名を受け取ってから対外公開まで、**最短1日**で対応可能です。
 
 ---
 
