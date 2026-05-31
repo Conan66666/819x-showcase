@@ -36,6 +36,8 @@
 - 行情中继接入（高并发 fanout）
 - 多语种 i18n
 - 多币种 / 多市场配置
+
+· [截图演示](SCREENSHOTS.md) 
 ---
 
 ## 第二块 · 合约 + 期货交易所（ST5）
@@ -61,6 +63,7 @@
 - 多语种 i18n
 - 多币种 / 多市场配置
 
+· [截图演示](SCREENSHOTS.md) 
 ---
 
 详细技术能力见 [CAPABILITIES.md](CAPABILITIES.md)。
